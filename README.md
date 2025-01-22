@@ -30,5 +30,5 @@ A sleek and modern web application for managing your personal finances. Track in
 
 ### 📂 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/jaymeen908/Expense-Tracker.git
 cd expense-tracker
